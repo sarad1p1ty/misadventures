@@ -8,7 +8,7 @@ const config: GatsbyConfig = {
   plugins: [{
     resolve: 'gatsby-source-wordpress',
     options: {
-      "url": ""
+      "url": "https://blog.saradipity.co.uk/graphql"
     }
   }, "gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-react-helmet", {
     resolve: 'gatsby-plugin-manifest',
