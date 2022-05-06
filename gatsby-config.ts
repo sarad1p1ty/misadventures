@@ -2,8 +2,8 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `new`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `Saradipity`,
+    siteUrl: `https://saradipity.co.uk`
   },
   plugins: [{
     resolve: 'gatsby-source-wordpress',
